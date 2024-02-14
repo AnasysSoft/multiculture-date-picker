@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var Year = /*#__PURE__*/function (Year) {\n  Year[Year[\"min\"] = 1000] = \"min\";\n  Year[Year[\"max\"] = 2500] = \"max\";\n  return Year;\n}(Year || {});","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
